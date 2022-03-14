@@ -6,6 +6,6 @@
 [![GitHub nielth](https://img.shields.io/github/followers/nielth?label=follow&style=social)](https://github.com/nielth)
 
 
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielth&layout=compact&theme=radical"></center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielth&layout=compact&theme=radical">
 
-<center><img src="./github-contribution-grid-snake.svg"></center>
+<img src="./github-contribution-grid-snake.svg">
