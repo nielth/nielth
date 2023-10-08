@@ -6,7 +6,9 @@
 [![GitHub nielth](https://img.shields.io/github/followers/nielth?label=follow&style=social)](https://github.com/nielth)
 
 
-# <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielth&layout=compact&theme=radical">
+<!---
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielth&layout=compact&theme=radical">
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nielth/nielth/output/github-contribution-grid-snake-dark.svg">
